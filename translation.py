@@ -8,7 +8,7 @@ class Translation(object):
 
 /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs..
 
-🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/Ban_Ange">ᗷᴀɴ ᴀɴɢᴇ</a>
+🔅 sᴜᴘᴘᴏʀᴛ: <a href="https://t.me/Ban_Ange">ᗷᴀɴ ᴀɴɢᴇ</a>"""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
